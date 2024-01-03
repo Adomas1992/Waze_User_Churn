@@ -1,2 +1,6 @@
-# Waze_User_Churn
-Waze User Churn Prediction with Tree-Based Models
+### Waze User Churn Prediction with Tree-Based Models
+Project Description:
+In this project, our team aims to develop an advanced machine learning model to predict user churn within the Waze platform accurately. The primary objective is to identify users who are most likely to churn, understand the underlying reasons contributing to their potential departure, and proactively engage with these users to prevent them from leaving the platform.
+
+Business Scenario:
+The project's central focus lies in identifying potential churners accurately, with a primary emphasis on minimizing false negatives. These users are at the highest risk of leaving the platform, and it is imperative to prioritize their retention efforts. Our model will ensure that users flagged as potential churn candidates receive timely interventions and personalized engagement to enhance their satisfaction and loyalty to Waze. This strategic approach offers substantial benefits for Waze. By reducing user churn and improving retention rates, Waze can strengthen its user community, maintain a competitive edge in the market, and foster continued growth. Additionally, it underscores Waze's commitment to responsible data usage and user-centric practices, further enhancing its reputation and trustworthiness among its user base.
